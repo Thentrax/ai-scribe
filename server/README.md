@@ -15,14 +15,14 @@ This is the backend service for the AI Scribe project. It handles audio transcri
 server/
 ├── src/
 │ ├── controllers/
+│ ├── lib/
+│ ├── middleware/
 │ ├── routes/
 │ ├── services/
 │ ├── utils/
-│ ├── lib/
 │ └── index.ts
 ├── prisma/
 │ └── schema.prisma
-├── Dockerfile
 ```
 
 ## Setup
