@@ -1,4 +1,4 @@
-# AI Scribe - Server
+# AI Scribe - Backend (Server)
 
 This is the backend service for the AI Scribe project. It handles audio transcription using Whisper, generates OASIS Section G notes using an AI model (Ollama), and manages storage via PostgreSQL.
 

@@ -1,4 +1,4 @@
-# AI Scribe - Whisper API
+# AI Scribe - Auxiliar service (Whisper API)
 
 This is a small one endpoint API, just for transcribe the text. Using the 'base' model from Python Whisper open source lib.
 
