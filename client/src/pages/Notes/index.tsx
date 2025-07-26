@@ -91,9 +91,6 @@ const NotesPage = () => {
               </AccordionSummary>
               <AccordionDetails>
                 <Box mb={2}>
-                  <Typography variant="subtitle1" gutterBottom>
-                    Section G:
-                  </Typography>
                   <ReactMarkdown>{note.sectionG}</ReactMarkdown>
                 </Box>
                 <Box mb={2}>
